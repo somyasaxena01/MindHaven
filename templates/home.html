@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome | Mental Health Resource Finder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/interactive.css') }}">
+</head>
+<body>
+    <div class="home-container">
+        <h1><i>You're Not Alone 💙</i></h1>
+        <p>
+            Our actions always stem from what we think, and whatever can disrupt our thinking can even become a barrier in our day-to-day activities.
+            There is nothing bad in not being productive sometimes <i>but</i> not every deadline is waiting for us.
+        </p>
+        <p>
+            We’ve curated a list of helpful mental health resources around the world — articles, helplines, therapy portals, and more.
+            Whether you're seeking knowledge or support, we're here for you.
+        </p>
+        <a href="{{ url_for('finder') }}" class="start-button">Find Resources</a>
+        <a href="/quiz" class="quiz-button">Take the Mental Health Quiz</a>
+
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

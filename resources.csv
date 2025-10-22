@@ -1,0 +1,91 @@
+category,type,region,name,link
+anxiety,article,Global,Understanding Anxiety by WHO,https://www.who.int/news-room/questions-and-answers/item/mental-health-strengthening-our-response
+anxiety,course,Global,Managing Anxiety – Coursera,https://www.coursera.org/learn/managing-anxiety
+anxiety,app,Global,Headspace,https://www.headspace.com
+anxiety,community,Global,Anxiety and Depression Association of America,https://adaa.org
+anxiety,video,Global,Coping with Anxiety – TEDx Talk,https://www.youtube.com/watch?v=WWloIAQpMcQ
+anxiety,toolkit,Global,Anxiety Self-Help Toolkit – Mind UK,https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/self-care/
+depression,helpline,India,iCall (TISS),https://icallhelpline.org
+depression,chatbot,Global,Wysa,https://www.wysa.io
+depression,article,Global,NIMH Depression Guide,https://www.nimh.nih.gov/health/topics/depression
+depression,forum,Global,Reddit r/depression,https://www.reddit.com/r/depression/
+depression,app,Global,Sanvello,https://www.sanvello.com/
+depression,helpline,US,National Suicide Prevention Lifeline,https://988lifeline.org
+stress,therapy,US,BetterHelp,https://www.betterhelp.com
+stress,app,Global,Calm App,https://www.calm.com
+stress,article,Global,APA Stress Management Guide,https://www.apa.org/topics/stress
+stress,video,Global,How to Make Stress Your Friend – TED Talk,https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend
+stress,community,Global,7 Cups – Online Support Chat,https://www.7cups.com
+stress,course,Global,Stress Management – Coursera,https://www.coursera.org/learn/stress-management
+burnout,article,Global,Harvard Health on Burnout,https://www.health.harvard.edu/blog/burnout-what-it-is-and-what-to-do-about-it-202111182650
+burnout,toolkit,Global,Burnout Recovery Plan – MindTools,https://www.mindtools.com/pages/article/recovering-from-burnout.htm
+burnout,video,Global,Burnout TED Talk – Emily Nagoski,https://www.youtube.com/watch?v=hF4rk3Uz7x8
+burnout,app,Global,Shine App – Burnout Support,https://www.theshineapp.com
+burnout,forum,Global,Reddit r/burnout,https://www.reddit.com/r/burnout/
+burnout,helpline,India,Fortis Stress Helpline,https://www.fortishealthcare.com/india/mental-health
+self-esteem,article,Global,Self-Esteem Guide – Mind UK,https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/
+self-esteem,video,Global,Building Self-Esteem - TEDx Talk,https://www.youtube.com/watch?v=2v6c7E80W6A
+self-esteem,app,Global,ThinkUp – Affirmations App,https://thinkup.me
+self-esteem,community,Global,Reddit r/selfesteem,https://www.reddit.com/r/selfesteem/
+self-esteem,toolkit,Global,Self-Esteem Workbook – Therapist Aid,https://www.therapistaid.com/worksheets/self-esteem-journal.pdf
+self-esteem,course,Global,Self-Esteem and Confidence Building – Udemy,https://www.udemy.com/course/self-confidence-and-self-esteem-complete-bootcamp/
+grief,helpline,US,GriefShare,https://www.griefshare.org/
+grief,article,UK,Grief Guide by NHS,https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/
+grief,app,Global,Grief Works,https://www.griefworkscourse.com
+grief,video,Global,David Kessler on Grief – YouTube,https://www.youtube.com/watch?v=1evwgu369Jw
+grief,community,Global,Reddit r/GriefSupport,https://www.reddit.com/r/GriefSupport/
+grief,course,Global,Grief and Loss – FutureLearn,https://www.futurelearn.com/courses/grief-loss-and-dying
+ptsd,article,Global,WHO PTSD Resource,https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder
+ptsd,therapy,US,VA PTSD Treatment,https://www.ptsd.va.gov
+ptsd,course,Global,PTSD Awareness Course – Coursera,https://www.coursera.org/learn/ptsd-awareness
+ptsd,app,Global,PTSD Coach App,https://mobile.va.gov/app/ptsd-coach
+ptsd,community,Global,My PTSD Forum,https://www.myptsd.com
+ptsd,video,Global,Living with PTSD – TEDx Talk,https://www.youtube.com/watch?v=1Evwgu369Jw
+bipolar,community,Global,International Bipolar Foundation,https://ibpf.org/
+bipolar,app,Global,eMoods – Bipolar Tracker,https://emoods.app
+bipolar,article,US,NIMH Bipolar Disorder Guide,https://www.nimh.nih.gov/health/topics/bipolar-disorder
+bipolar,forum,Global,Reddit r/BipolarReddit,https://www.reddit.com/r/BipolarReddit/
+bipolar,therapy,Global,Psychology Today – Bipolar Therapists,https://www.psychologytoday.com/us/therapists/bipolar-disorder
+bipolar,video,Global,Bipolar Disorder Explained – TED-Ed,https://www.youtube.com/watch?v=6ibCtsHgz3Y
+ocd,article,Global,IOCDF,https://iocdf.org/about-ocd/
+ocd,app,Global,NOCD App,https://www.treatmyocd.com
+ocd,community,Global,Reddit r/OCD,https://www.reddit.com/r/OCD/
+ocd,video,Global,OCD and Anxiety – TEDx Talk,https://www.youtube.com/watch?v=wCNRz2zJ6B0
+ocd,therapy,Global,Online OCD Therapy – NOCD,https://www.treatmyocd.com/therapy
+ocd,toolkit,Global,OCD Toolkit – OCD UK,https://www.ocduk.org/ocd-tools/
+adhd,therapy,US,CHADD,https://chadd.org
+adhd,app,Global,Inflow – ADHD App,https://www.getinflow.io
+adhd,video,Global,What it's like to have ADHD – TEDx,https://www.youtube.com/watch?v=JiwZQNYlGQI
+adhd,community,Global,Reddit r/ADHD,https://www.reddit.com/r/ADHD/
+adhd,toolkit,Global,ADHD Self-Help Tools – ADDitude,https://www.additudemag.com/category/manage-adhd-life/tools/
+adhd,course,Global,ADHD in Adults – FutureLearn,https://www.futurelearn.com/courses/understanding-adhd
+eating-disorder,helpline,India,Vandrevala Foundation Helpline,https://www.vandrevalafoundation.com/helpline
+eating-disorder,app,Global,Recovery Record,https://www.recoveryrecord.com
+eating-disorder,community,Global,NEDA Forums,https://www.nationaleatingdisorders.org/forums
+eating-disorder,article,Global,Beat Eating Disorders UK,https://www.beateatingdisorders.org.uk
+eating-disorder,video,Global,Confessions of a Recovering Bulimic – TEDx,https://www.youtube.com/watch?v=xhaFCDzq3W8
+eating-disorder,toolkit,Global,Eating Disorder Recovery Toolkit,https://www.nationaleatingdisorders.org/toolkits
+addiction,app,Global,Sober Grid,https://www.sobergrid.com/
+addiction,video,Global,Everything You Know About Addiction is Wrong – TED Talk,https://www.youtube.com/watch?v=PY9DcIMGxMs
+addiction,community,Global,SMART Recovery,https://www.smartrecovery.org
+addiction,helpline,US,SAMHSA National Helpline,https://www.samhsa.gov/find-help/national-helpline
+addiction,forum,Global,Reddit r/StopDrinking,https://www.reddit.com/r/StopDrinking/
+addiction,article,Global,NIDA Guide on Addiction,https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction
+loneliness,article,Global,Campaign to End Loneliness,https://www.campaigntoendloneliness.org/
+loneliness,app,Global,Wisdo – Make Meaningful Connections,https://wisdo.com
+loneliness,community,Global,Reddit r/lonely,https://www.reddit.com/r/lonely/
+loneliness,video,Global,The Science of Loneliness – YouTube,https://www.youtube.com/watch?v=_0hxl03JoA0
+loneliness,therapy,Global,Online-Therapy for Loneliness,https://www.online-therapy.com/loneliness
+loneliness,toolkit,Global,Action for Happiness: Loneliness Toolkit,https://actionforhappiness.org/loneliness
+panic-attack,app,Global,Rootd,https://www.rootd.io/
+panic-attack,article,Global,Calm Clinic on Panic Attacks,https://www.calmclinic.com/anxiety/panic-attacks
+panic-attack,video,Global,What Having a Panic Attack Feels Like – YouTube,https://www.youtube.com/watch?v=ZwMlHkWKDwM
+panic-attack,community,Global,Reddit r/PanicAttack,https://www.reddit.com/r/PanicAttack/
+panic-attack,toolkit,Global,Panic Attack Workbook – Therapist Aid,https://www.therapistaid.com/worksheets/panic-attacks-guide.pdf
+panic-attack,therapy,Global,BetterHelp – Panic Attack Support,https://www.betterhelp.com
+daydreaming,article,Global,Maladaptive Daydreaming – Psychology Today,https://www.psychologytoday.com/us/blog/experimentations/202106/maladaptive-daydreaming
+daydreaming,community,Global,Wild Minds Network,https://wildminds.ning.com/
+daydreaming,article,Global,Verywell Mind on Daydreaming,https://www.verywellmind.com/maladaptive-daydreaming-5198391
+daydreaming,article,Global,Understanding Maladaptive Daydreaming,https://psychcentral.com/disorders/maladaptive-daydreaming
+daydreaming,forum,Global,Reddit MD Community,https://www.reddit.com/r/MaladaptiveDreaming/
+daydreaming,therapy,Global,Online-Therapy.com – Dissociation,https://www.online-therapy.com

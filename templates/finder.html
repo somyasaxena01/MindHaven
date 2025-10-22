@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health Recommender</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_finder.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/interactive.css') }}">
+</head>
+<body>
+    <div class="issue-buttons-container">
+        <h2>Your Mental Health Matters</h2>
+        <div class="button-grid">
+            <a href="{{ url_for('show_disorder', disorder='anxiety') }}" class="issue-button anxiety">Anxiety</a>
+            <a href="{{ url_for('show_disorder', disorder='depression') }}" class="issue-button depression">Depression</a>
+            <a href="{{ url_for('show_disorder', disorder='stress') }}" class="issue-button stress">Stress</a>
+            <a href="{{ url_for('show_disorder', disorder='burnout') }}" class="issue-button burnout">Burnout</a>
+            <a href="{{ url_for('show_disorder', disorder='grief') }}" class="issue-button grief">Grief</a>
+            <a href="{{ url_for('show_disorder', disorder='self-esteem') }}" class="issue-button self-esteem">Self-Esteem</a>
+            <a href="{{ url_for('show_disorder', disorder='ptsd') }}" class="issue-button ptsd">PTSD</a>
+            <a href="{{ url_for('show_disorder', disorder='bipolar') }}" class="issue-button bipolar">Bipolar</a>
+            <a href="{{ url_for('show_disorder', disorder='ocd') }}" class="issue-button ocd">OCD</a>
+            <a href="{{ url_for('show_disorder', disorder='adhd') }}" class="issue-button adhd">ADHD</a>
+            <a href="{{ url_for('show_disorder', disorder='eating-disorder') }}" class="issue-button eating-disorder">Eating Disorder</a>
+            <a href="{{ url_for('show_disorder', disorder='addiction') }}" class="issue-button addiction">Addiction</a>
+            <a href="{{ url_for('show_disorder', disorder='loneliness') }}" class="issue-button loneliness">Loneliness</a>
+            <a href="{{ url_for('show_disorder', disorder='panic-attack') }}" class="issue-button panic-attack">Panic Attack</a>
+            <a href="{{ url_for('show_disorder', disorder='daydreaming') }}" class="issue-button daydreaming">Daydreaming</a>
+        </div>
+    <div class="main-mental-health-image" style="text-align:center; margin-top: 50px;">
+        <img src="{{ url_for('static', filename='images/mental_health.svg') }}" alt="Mental Health" style="width: 300px;">
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

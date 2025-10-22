@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mental Health Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f0f4f8;
+            padding: 30px;
+            color: #333;
+        }
+        h1 {
+            color: #2d5be3;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        form {
+            max-width: 750px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .question {
+            margin-bottom: 25px;
+        }
+        .question label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .options label {
+            margin-right: 20px;
+            font-weight: normal;
+        }
+        button {
+            background-color: #2d5be3;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            display: block;
+            margin: 30px auto 0;
+        }
+        button:hover {
+            background-color: #1c3f91;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mental Health Self-Assessment Quiz</h1>
+    <form action="/predict" method="POST">
+        {% set questions = [
+            "overwhelmed by responsibilities",
+            "sad or hopeless",
+            "tired even after sleeping",
+            "unable to focus or finish tasks",
+            "disconnected from others",
+            "irritable or angry for no reason",
+            "anxious in social settings",
+            "feelings of worthlessness or guilt",
+            "racing thoughts or restlessness",
+            "difficulty staying still or focused",
+            "compulsive behaviors or checking things repeatedly",
+            "avoiding reminders of a traumatic event",
+            "experiencing sudden panic or fear",
+            "loss of interest in activities once enjoyed",
+            "eating much more or less than usual",
+            "trouble sleeping or staying asleep",
+            "using substances to cope with emotions",
+            "feeling like you're not good enough",
+            "thinking life is meaningless or empty",
+            "daydreaming excessively or losing touch with surroundings"
+        ] %}
+
+        {% for i in range(1, 21) %}
+        <div class="question">
+            <label for="Q{{ i }}">Q{{ i }}. How often do you feel {{ questions[i-1] }}?</label>
+            <div class="options">
+                <label><input type="radio" name="Q{{ i }}" value="Never" required> Never</label>
+                <label><input type="radio" name="Q{{ i }}" value="Rarely"> Rarely</label>
+                <label><input type="radio" name="Q{{ i }}" value="Sometimes"> Sometimes</label>
+                <label><input type="radio" name="Q{{ i }}" value="Often"> Often</label>
+            </div>
+        </div>
+        {% endfor %}
+        <button type="submit">Submit Quiz</button>
+    </form>
+</body>
+</html>
