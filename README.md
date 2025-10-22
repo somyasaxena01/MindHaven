@@ -24,4 +24,5 @@ If someone is unsure about what they might be experiencing, MindHaven includes a
 | **Deployment** | Gunicorn |
 
 ☁️ Deployment
+
 The app is deployed using Render, configured for production with Gunicorn.
