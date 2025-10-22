@@ -4,6 +4,8 @@
 
 If someone is unsure about what they might be experiencing, MindHaven includes a **machine learning–based quiz** that analyzes their responses and predicts the possible mental health disorders they may be facing. It then recommends relevant resources, helping users take the first step toward self-awareness and support.
 
+🌐 **Live Demo:** [https://mindhaven-74vg.onrender.com](https://mindhaven-74vg.onrender.com)
+
 ## 🧠 Key Features
 
 - 🩺 **ML-Based Self-Assessment Quiz** — Predicts possible mental health concerns using trained models.
@@ -19,4 +21,7 @@ If someone is unsure about what they might be experiencing, MindHaven includes a
 | **Backend** | Flask (Python) |
 | **Frontend** | HTML, CSS, JavaScript |
 | **Machine Learning** | Scikit-learn, Pandas, NumPy, Joblib |
-| **Deployment** | Gunicorn (for production) |
+| **Deployment** | Gunicorn |
+
+☁️ Deployment
+The app is deployed using Render, configured for production with Gunicorn.
